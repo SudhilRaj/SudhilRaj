@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SudhilRaj
+- 🌱 I’m a Javascript Developer
 - 👀 I’m interested in every aspects of software development
-- 🌱 I’m currently learning ReactJS
+
 
 <!---
 SudhilRaj/SudhilRaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
