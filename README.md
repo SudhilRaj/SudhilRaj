@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SudhilRaj
-- 🌱 I’m a Javascript Developer
-- 👀 I’m interested in every aspects of software development
+👋 Hi, I’m @SudhilRaj
+🌱 I’m a Javascript Developer
+👀 I’m interested in every aspects of software development
 
 
 <!---
