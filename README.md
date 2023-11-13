@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-<img hight="300" width="800" alt="GIF" align="center" src="https://github.com/shubh73/shubh73/blob/main/assets/1.gif">
+<img hight="300" width="800" alt="GIF" align="center" src="https://github.com/SudhilRaj/SudhilRaj/blob/main/1.gif">
 </div>
 
 <br>
 
-<h2 align="center">Reach me on <img src="https://github.com/shubh73/shubh73/blob/main/assets/2.gif" width="30"></h2>
+<h2 align="center">Reach me on <img src="https://github.com/SudhilRaj/SudhilRaj/blob/main/2.gif"" width="30"></h2>
 <p align="center">
 <a href="mailto:sudhilkolathur@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
 <a href="https://www.linkedin.com/in/sudhilraj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
