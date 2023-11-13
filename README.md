@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h2 align="center">Reach me on <img src="https://github.com/SudhilRaj/SudhilRaj/blob/main/2.gif"" width="30"></h2>
 <p align="center">
 <!-- <a href="mailto:sudhilkolathur@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>  -->
-<a href="https://www.linkedin.com/in/sudhilraj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://www.linkedin.com/in/sudhil-raj-196b5712b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://www.instagram.com/sudhilkolathur/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
