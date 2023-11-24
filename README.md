@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-<img hight="300" width="800" alt="GIF" align="center" src="https://github.com/SudhilRaj/SudhilRaj/blob/main/1.gif">
+<img hight="300" width="800" alt="GIF" align="center" src="https://github.com/SudhilRaj/SudhilRaj/blob/main/4.png">
 </div>
 
 <br>
