@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hey 👋, I'm [Sudhil Raj](https://github.com/SudhilRaj) 👨‍💻
+## Hey <img hight="40" width="40" alt="Hand Wave" align="center" src="https://github.com/SudhilRaj/SudhilRaj/blob/main/hand-wave.gif">, I'm [Sudhil Raj](https://github.com/SudhilRaj) 👨‍💻
 #### ⚡Senior Front-End Developer ⚡
 <br>
 
