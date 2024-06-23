@@ -30,11 +30,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
 
-<p align="center">
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
- &nbsp; -->
+<!-- <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -49,12 +45,12 @@ Here are some ideas to get you started:
  &nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
  &nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40"/>
- &nbsp; -->
-</p>
-<p align="center">
+ &nbsp; 
+</p> -->
+<!-- <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
  &nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40"/>
@@ -67,15 +63,20 @@ Here are some ideas to get you started:
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
  &nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
+ &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
  &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
- &nbsp; -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
+</p> -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui,photoshop,js,jquery,ts,react,redux,next,git&perline=7" />
+  </a>
 </p>
-<br>
 
 
 <!---
