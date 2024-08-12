@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui,photoshop,js,jquery,ts,react,redux,next,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,ts,react,redux,next,vite,git,html,css,bootstrap,sass,tailwind,styledcomponents,materialui,photoshop&perline=8" />
   </a>
 </p>
 
